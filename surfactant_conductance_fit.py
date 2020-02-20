@@ -1,7 +1,5 @@
 
-# coding: utf-8
-
-# # Determination of the critical micelle concentration of Sodium dodecyl sulfate (SDS) in water
+# Determination of the critical micelle concentration of Sodium dodecyl sulfate (SDS) in water
 # Example of a nonlinear curve fit of Surfactant Conductivity Data
 # The fit functions are based on the "APN"-model for the concentration of surfactants near the cmc
 # 
